@@ -1,0 +1,311 @@
+#head {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    background: #FEFAEF;
+    padding-top: 25px;
+  
+}
+.heading{
+	position: fixed;
+	width: 100%;
+}
+#banner{
+	margin-top: -16px;
+}
+#link{
+	padding-top: 15px;
+	padding-left: 60px;
+}
+ul{
+	margin-bottom: -15px;
+	list-style: none;
+	display: flex;
+}
+.ul{
+	margin-bottom: 10px;
+	width: 410px;
+}
+#menu a{
+	text-decoration: none;
+}
+#menu li{
+	width: 40%;
+	text-align: center;
+	padding: 8px 0;
+}
+.icon{
+	display: flex;
+	margin: auto;
+}
+.item{
+	width: 25%;
+	margin-left: 60px;
+}
+.text{
+	margin-left: 20px;
+	text-align: center;
+	width: 50%;
+
+}
+#head-icon{
+	padding-bottom: 60px;
+    padding-top: 25px;
+	width: 100%;
+}
+#bottom-icon{
+	padding-bottom: 60px;
+	width: 100%;
+}
+a{
+	color: black;
+}
+hr{
+	height: 5px;
+	background: #DD8F23;
+}
+.hr-1 {
+    height: 5px;
+    margin-top: 5px;
+}
+#logo{
+	margin: auto;
+}
+.search {
+	width: 250px;
+    border: solid orange 2px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.fas fa-search{
+	color: #DD8F23;
+}
+#list-hot-deal{
+	width: 100%;
+}
+.hot-deal{
+	overflow: hidden;
+	width: 25%;
+    background: white;
+    border: 1px solid #DBDBDB;
+    border-radius: 5px;
+}
+.btn-search {
+
+    margin-left: -77px;
+    height: 30px;
+    background: orange;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.btn-login {
+	width: 130px;
+    border-radius: 15px;
+    background: #FEFAEF;
+}
+#login a{
+	color: orange;
+	text-decoration: none;
+}
+.btn-register{
+	width: 130px;
+    border-radius: 15px;
+    background: #FEFAEF;
+}
+#register a{
+	color: orange;
+	text-decoration: none;
+}
+#container{
+	background: #F9F9F9;
+}
+div {
+    margin: auto;
+}
+div list-th{
+	border-radius: 15px;
+}
+#list-icon {
+    padding-top: 40px;
+}
+#head-icon {
+    display: flex;
+}
+#bottom-icon{
+	display: flex;
+}
+#uudai {
+    background: #F2F2F2;
+}
+.list-hot-deal {
+    display: flex;
+    padding-bottom: 25px;
+}
+#title{
+	margin-left:60px;
+	padding-top: 10px;
+}
+.hr-2{
+	height: 1px;
+	width: 20px;
+}
+#title-th{
+	margin-left:60px;
+	padding-top: 10px;
+}
+.th-a {
+    display: flex;
+    width: 100%;
+    margin-left: 40px;
+    padding-bottom: 25px;
+}
+.th-b{
+	width: 100%;
+	display: flex;
+	margin-left: 40px;
+	padding-bottom: 25px;
+}
+.th-c{
+	width: 100%;
+	display: flex;
+	margin-left: 40px;
+	padding-bottom: 25px;
+}
+.th-d{
+	width: 100%;
+	display: flex;
+	margin-left: 40px;
+	padding-bottom: 25px;
+}
+.content-th {
+    width: 25%;
+    margin-left : 20px;
+    overflow: hidden;
+    border: 1px solid #DBDBDB;
+    border-radius: 4px;
+}
+.hr-3{
+	height: 1px;
+	width: 20px;
+}
+button {
+    
+    border-style: solid;
+    border-width: 1px;
+    border-color: orange;
+}
+#btn a{
+	color:orange;
+	text-decoration: none;
+}
+#btn {
+	background: white;
+    border-radius: 15px;
+    margin-left: 220px;
+    margin-bottom: 10px;
+    margin-top: -25px;
+}
+#btn i{
+font-size: 13px;
+}
+
+#btn-2 i{
+font-size: 13px;
+}
+
+#btn-2{
+	border-radius: 15px;
+    margin-left: 220px;
+    margin-bottom: 10px;
+    margin-top: -25px;
+    background: white;
+}
+#btn-2 a{
+	text-decoration: none;
+	color: orange;
+}
+.text{
+	background: white;
+}
+.text:hover {
+	color: orange;
+}
+img {
+	transition: all .35s ;
+	border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+span:hover {
+	color: orange;
+}
+#logo:hover {
+	transform: scale(1.2);
+	transition: all .35s;
+}
+#btn:hover {
+	background: orange;
+}
+#btn:hover a{
+	color: white;
+}
+#btn-2:hover {
+	background: orange;
+}
+#btn-2:hover a{
+	color: white;
+}
+.footer{
+	width: 20px;
+	height: 1px;
+}
+#footer {
+	display: flex;
+    background: #222222;
+    color: white;
+    width: 100%;
+    padding-left: 50px;
+}
+.item-ft{
+	padding-top: 20px;
+	width: 25%;
+	padding-bottom: 20px;
+}
+.item-ft{
+	margin-top: -10px;
+}
+.contact-ft{
+	color: #777777;
+}
+.promise{
+	color: #777777;
+}
+#bot{
+	height: 50px;
+	background: #000000;
+	text-align: center;
+	color: #777777;
+	padding-top: 10px;	
+}
+.swiper-container {
+	height: 90px;
+}
+.page{
+	height: 20px;
+	padding-bottom: 40px;
+	margin-left: 575px;
+}
+.page-number{
+	width: 30px;
+	height: 30px;
+	background: #F9F9F9;
+	border: solid orange 1px;
+	text-align: center;
+
+}
+input:focus {
+	outline: none;
+	
+}
+li {
+	padding: 5px;
+}
